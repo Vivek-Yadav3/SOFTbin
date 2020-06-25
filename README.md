@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1 style="color:red;>hi</h1>
+<h1>hi</h1>
 <p>56</p>
 </body>
 </html>
